@@ -1,0 +1,83 @@
+Product ID;Product Name;Product Brand;Product Description;Product Category; Price ;Available Amount;Units of Measurement;Benefits and Features;Product Discount;Complementary Product for Upselling
+CM1001;Cement;ABC Cement;High-strength Portland cement for general construction;Cement;€9,99;1000;1 bag;High durability, easy mixing;10%;Sand
+CM1002;Sand;XYZ Aggregates;Fine aggregate sand for construction and landscaping;Aggregate;€5,49;2000;1 ton;Clean and consistent granules;5%;Cement
+CM1003;Gravel;XYZ Aggregates;Coarse aggregate gravel for concrete and drainage;Aggregate;€7,99;1500;1 ton;High strength, low absorption;8%;Cement
+CM1004;Rebar;SteelStrong;Reinforcement steel bars for concrete structures;Reinforcement;€0,99;3000;1 foot;High tensile strength, corrosion-resistant;12%;Concrete Mix
+CM1005;Plywood;TimberPro;High-quality plywood for construction and furniture;Wood Products;€15,99;800;1 sheet;Water-resistant, durable;10%;Wood Glue
+CM1006;Bricks;BuildBlock;Red clay bricks for building walls and structures;Masonry;€0,75;5000;1 brick;High compressive strength, weather-resistant;7%;Mortar Mix
+CM1007;Concrete Mix;QuickMix;Ready-mix concrete for various construction applications;Concrete;€12,99;1200;1 bag;Easy to mix, high strength;10%;Rebar
+CM1008;Mortar Mix;QuickMix;Pre-mixed mortar for bricklaying and block construction;Masonry;€8,99;1100;1 bag;Strong adhesion, easy to apply;5%;Bricks
+CM1009;Insulation Foam;InsulSafe;Spray foam insulation for thermal and sound insulation;Insulation;€25,99;600;1 can;High R-value, easy application;15%;Drywall
+CM1010;Drywall Sheets;Gyprock;Standard drywall sheets for interior walls and ceilings;Drywall;€10,99;1300;1 sheet;Fire-resistant, easy to install;10%;Joint Compound
+CM1011;Joint Compound;SmoothFinish;Pre-mixed joint compound for drywall finishing;Drywall;€6,99;900;1 bucket;Easy to sand, smooth finish;12%;Drywall Sheets
+CM1012;PVC Pipes;PlumbRight;PVC pipes for plumbing and drainage systems;Plumbing;€4,99;2000;1 piece;Durable, corrosion-resistant;5%;PVC Pipe Fittings
+CM1013;PVC Pipe Fittings;PlumbRight;Various PVC pipe fittings for plumbing connections;Plumbing;€1,49;3000;1 piece;Easy to install, leak-proof;8%;PVC Pipes
+CM1014;Electrical Wiring;SafeElectric;Copper electrical wiring for residential and commercial use;Electrical;€19,99;750;1 roll;High conductivity, flame-retardant;10%;Conduits
+CM1015;Conduits;SafeElectric;Electrical conduits for protecting wiring;Electrical;€2,99;1600;1 piece;Durable, flexible;7%;Electrical Wiring
+CM1016;Roofing Shingles;RoofGuard;Asphalt roofing shingles for residential roofs;Roofing;€29,99;500;1 bundle;Weather-resistant, long-lasting;15%;Roofing Underlayment
+CM1017;Roofing Underlayment;RoofGuard;Underlayment for additional roof protection;Roofing;€14,99;800;1 roll;Waterproof, tear-resistant;10%;Roofing Shingles
+CM1018;Wood Beams;TimberPro;Structural wood beams for framing;Wood Products;€24,99;700;1 beam;High load-bearing capacity, treated for durability;12%;Wood Stain
+CM1019;Wood Stain;TimberPro;Stain for protecting and coloring wood surfaces;Wood Products;€8,99;1200;1 can;UV protection, water-resistant;10%;Wood Beams
+CM1020;Vinyl Flooring;FloorMaster;Durable vinyl flooring for residential and commercial use;Flooring;€22,99;900;1 box;Water-resistant, easy to install;15%;Underlayment
+CM1021;Ceramic Tiles;TileCraft;Glazed ceramic tiles for walls and floors;Flooring;€1,99;5000;1 tile;Easy to clean, durable;10%;Tile Adhesive
+CM1022;Tile Adhesive;TileCraft;High-strength adhesive for tiles;Flooring;€9,99;1000;1 bucket;Strong bond, easy to apply;12%;Ceramic Tiles
+CM1023;Paint;ColorMaster;Interior and exterior paint in various colors;Paint;€24,99;1400;1 gallon;High coverage, fade-resistant;10%;Paint Brushes
+CM1024;Paint Brushes;PaintPro;Various sizes of paint brushes for all painting needs;Paint;€4,99;3000;1 brush;Smooth application, easy to clean;8%;Paint
+CM1025;Caulking;SealTight;Silicone caulking for sealing gaps and joints;Sealants;€7,99;1800;1 tube;Waterproof, flexible;12%;Caulking Gun
+CM1026;Caulking Gun;SealTight;Caulking gun for applying sealants;Sealants;€9,99;1200;1 gun;Ergonomic design, easy to use;10%;Caulking
+CM1027;Decking Boards;TimberPro;Composite decking boards for outdoor decks;Outdoor;€19,99;800;1 board;Weather-resistant, low maintenance;15%;Deck Screws
+CM1028;Deck Screws;FastenRight;Screws for securing decking boards;Outdoor;€8.99;2500;1 box;Rust-resistant, high strength;10%;Decking Boards
+CM1029;Fence Panels;SecureFence;Pre-fabricated fence panels for privacy and security;Outdoor;€49,99;500;1 panel;Durable, easy to install;12%;Fence Posts
+CM1030;Fence Posts;SecureFence;Fence posts for supporting fence panels;Outdoor;€14,99;1000;1 post;Strong, weather-resistant;10%;Fence Panels
+CM1031;Concrete Blocks;BuildBlock;Standard concrete blocks for construction;Masonry;€1,49;4500;1 block;High strength, versatile;7%;Mortar Mix
+CM1032;Angle Iron;SteelStrong;Steel angle iron for structural support;Metal Products;€19,99;900;1 piece;High load capacity, corrosion-resistant;10%;Welding Rods
+CM1033;Welding Rods;SteelStrong;Welding rods for metal fabrication;Metal Products;€12,99;1500;1 box;Strong bond, easy to use;8%;Angle Iron
+CM1034;Glass Panels;ClearView;Tempered glass panels for windows and doors;Glass Products;€49,99;600;1 panel;High strength, shatter-resistant;15%;Window Frames
+CM1035;Window Frames;ClearView;Frames for installing glass panels;Glass Products;€29,99;800;1 frame;Durable, easy installation;10%;Glass Panels
+CM1036;Asphalt;RoadBuild;Asphalt mix for road and driveway paving;Paving;€49,99;700;1 ton;Durable, weather-resistant;10%;Sealant
+CM1037;Sealant;RoadBuild;Sealant for asphalt surfaces;Paving;€24,99;1000;1 bucket;Long-lasting, easy application;12%;Asphalt
+CM1038;Flashing Tape;SealTight;Waterproof flashing tape for roofs and windows;Sealants;€9,99;1200;1 roll;Strong adhesion, flexible;10%;Roofing Shingles
+CM1039;Concrete Sealant;SealTight;Sealant for concrete surfaces;Sealants;€19,99;800;1 bucket;Waterproof, enhances durability;12%;Concrete Mix
+CM1040;Safety Glasses;SafeWork;Protective glasses for construction sites;Safety Equipment;€4,99;2000;1 pair;Impact-resistant, UV protection;8%;Hard Hats
+CM1041;Hard Hats;SafeWork;Safety hard hats for head protection;Safety Equipment;€14,99;1000;1 hat;Lightweight, impact-resistant;10%;Safety Glasses
+CM1042;Work Gloves;SafeWork;Durable work gloves for hand protection;Safety Equipment;€7,99;1500;1 pair;Cut-resistant, comfortable;12%;Safety Glasses
+CM1043;Ear Protection;SafeWork;Ear muffs for noise reduction on construction sites;Safety Equipment;€9,99;1200;1 pair;High noise reduction rating, comfortable;10%;Safety Glasses
+CM1044;Ladder;SafeStep;Aluminum extension ladder for high-reach tasks;Tools and Equipment;€89,99;300;1 ladder;Lightweight, stable;15%;Work Gloves
+CM1045;Power Drill;PowerPro;Cordless power drill with battery and charger;Tools and Equipment;€79,99;600;1 drill;High torque, long battery life;10%;Drill Bits
+CM1046;Drill Bits;PowerPro;Assorted drill bits for various materials;Tools and Equipment;€19,99;2500;1 set;Durable, precise;8%;Power Drill
+CM1047;Circular Saw;PowerPro;High-power circular saw for cutting wood and metal;Tools and Equipment;€99,99;400;1 saw;Powerful motor, precise cutting;12%;Saw Blades
+CM1048;Saw Blades;PowerPro;Replacement blades for circular saws;Tools and Equipment;€29,99;1500;1 set;Sharp, durable;10%;Circular Saw
+CM1049;Laser Level;PrecisionPro;Laser level for accurate measurements;Tools and Equipment;€59,99;700;1 level;High accuracy, easy to use;15%;Measuring Tape
+CM1051;Structural Steel Beam;SteelStrong;High-strength steel beams for structural support;Metal Products;€199,99;500;1 beam;High load-bearing capacity, corrosion-resistant;0,1;Welding Rods
+CM1052;Welding Machine;WeldMaster;Heavy-duty welding machine for industrial use;Tools and Equipment;€499,99;200;1 machine;High power, easy operation;0,12;Welding Rods
+CM1053;Aluminum Sheets;MetalWorks;Lightweight aluminum sheets for various applications;Metal Products;€29,99;1200;1 sheet;Corrosion-resistant, easy to cut;0,08;Aluminum Screws
+CM1054;Aluminum Screws;MetalWorks;Screws for fastening aluminum sheets;Fasteners;€9,99;3000;1 box;Rust-resistant, high strength;0,1;Aluminum Sheets
+CM1055;Water Pipe;PlumbRight;High-pressure water pipes for plumbing;Plumbing;€19,99;1000;1 piece;Durable, leak-proof;0,07;Pipe Fittings
+CM1056;Pipe Fittings;PlumbRight;Various pipe fittings for water pipes;Plumbing;€3,99;4000;1 piece;Easy to install, leak-proof;0,1;Water Pipe
+CM1057;Copper Pipes;CopperFlow;Copper pipes for plumbing and HVAC systems;Plumbing;€29,99;800;1 piece;High thermal conductivity, corrosion-resistant;0,12;Copper Pipe Fittings
+CM1058;Copper Pipe Fittings;CopperFlow;Fittings for copper pipes;Plumbing;€4,99;3500;1 piece;Easy to install, leak-proof;0,08;Copper Pipes
+CM1059;Air Ducts;AirFlow;Flexible air ducts for HVAC systems;HVAC;€14,99;900;1 piece;High flexibility, durable;0,1;HVAC Tape
+CM1060;HVAC Tape;AirFlow;Tape for sealing HVAC duct connections;HVAC;€6,99;2000;1 roll;Strong adhesion, heat-resistant;0,07;Air Ducts
+CM1061;Vent Covers;AirFlow;Decorative vent covers for HVAC systems;HVAC;€9,99;1500;1 cover;Durable, easy to install;0,08;Air Ducts
+CM1062;Light Fixtures;BrightHome;Ceiling light fixtures for residential and commercial use;Electrical;€49,99;700;1 fixture;Energy-efficient, stylish design;0,12;LED Bulbs
+CM1063;LED Bulbs;BrightHome;Energy-efficient LED bulbs for lighting;Electrical;€5,99;3000;1 bulb;Long-lasting, low energy consumption;0,1;Light Fixtures
+CM1064;Electrical Outlets;SafeElectric;Standard electrical outlets for residential use;Electrical;€2,99;2500;1 outlet;Safe, easy to install;0,05;Electrical Wiring
+CM1065;Electrical Switches;SafeElectric;Electrical switches for controlling lighting and devices;Electrical;€3,99;2000;1 switch;Durable, easy to install;0,08;Electrical Wiring
+CM1066;Circuit Breakers;SafeElectric;Circuit breakers for electrical safety;Electrical;€19,99;1200;1 breaker;High protection, easy reset;0,1;Electrical Panels
+CM1067;Electrical Panels;SafeElectric;Electrical panels for managing circuit breakers;Electrical;€99,99;400;1 panel;Durable, easy to install;0,12;Circuit Breakers
+CM1068;Roofing Nails;RoofGuard;Galvanized nails for securing roofing shingles;Roofing;€4,99;5000;1 box;Rust-resistant, high strength;0,1;Roofing Shingles
+CM1069;Roof Vents;RoofGuard;Vents for attic ventilation;Roofing;€19,99;800;1 vent;Durable, weather-resistant;0,12;Roofing Shingles
+CM1070;Tarps;CoverAll;Heavy-duty tarps for construction and outdoor use;Outdoor;€29,99;1000;1 tarp;Waterproof, tear-resistant;0,15;Rope
+CM1071;Rope;SecureLine;High-strength rope for construction and securing loads;Tools and Equipment;€9,99;2000;1 roll;Durable, high tensile strength;0,1;Tarps
+CM1072;Safety Harness;SafeWork;Full-body safety harness for fall protection;Safety Equipment;€49,99;600;1 harness;Adjustable, high safety rating;0,12;Safety Lanyard
+CM1073;Safety Lanyard;SafeWork;Lanyard for use with safety harnesses;Safety Equipment;€19,99;1000;1 lanyard;Durable, shock-absorbing;0,1;Safety Harness
+CM1074;Safety Netting;SafeWork;Safety netting for construction sites;Safety Equipment;€39,99;500;1 roll;High strength, UV resistant;0,08;Safety Harness
+CM1075;Dust Masks;SafeWork;Protective dust masks for construction sites;Safety Equipment;€9,99;3000;1 box;Comfortable, high filtration;0,1;Safety Glasses
+CM1076;Fire Extinguishers;FireSafe;Portable fire extinguishers for emergency use;Safety Equipment;€29,99;700;1 extinguisher;Easy to use, effective;0,12;Fire Blankets
+CM1077;Fire Blankets;FireSafe;Fire-resistant blankets for emergency use;Safety Equipment;€19,99;1000;1 blanket;High heat resistance, easy to deploy;0,1;Fire Extinguishers
+CM1078;Steel Doors;SecureEntry;High-security steel doors for commercial buildings;Doors and Windows;€199,99;300;1 door;High strength, fire-rated;0,15;Door Frames
+CM1079;Door Frames;SecureEntry;Steel frames for secure door installation;Doors and Windows;€99,99;500;1 frame;Durable, easy to install;0,1;Steel Doors
+CM1080;Windows;ClearView;Double-glazed windows for energy efficiency;Doors and Windows;€149,99;400;1 window;High insulation, soundproof;0,12;Window Frames
+CM1081;Shutters;ClearView;Exterior window shutters for added protection;Doors and Windows;€49,99;700;1 pair;Weather-resistant, stylish;0,1;Windows
+CM1082;Tile Grout;TileCraft;Grout for filling gaps between tiles;Flooring;€9,99;1000;1 bucket;Strong adhesion, easy to apply;0,12;Ceramic Tiles
+CM1083;Floor Underlayment;FloorMaster;Underlayment for laminate and hardwood flooring;Flooring;€24,99;700;1 roll;Soundproofing, moisture barrier;0,1;Laminate Flooring

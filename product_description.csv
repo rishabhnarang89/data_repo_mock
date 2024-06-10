@@ -1,4 +1,4 @@
-product_id,product_name,product_brand,product_description,product_category, price ,available_quantity,unit,benefits,discount,complimentary_products
+product_id,product_name,product_brand,product_description,product_category,price,available_quantity,unit,benefits,discount,complimentary_products
 CM1001,Cement,ABC Cement,High-strength Portland cement for general construction,Cement,9.99,1000,1 bag,High durability. easy mixing,10%,Sand
 CM1002,Sand,XYZ Aggregates,Fine aggregate sand for construction and landscaping,Aggregate,5.49,2000,1 ton,Clean and consistent granules,5%,Cement
 CM1003,Gravel,XYZ Aggregates,Coarse aggregate gravel for concrete and drainage,Aggregate,7.99,1500,1 ton,High strength. low absorption,8%,Cement

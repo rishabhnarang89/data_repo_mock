@@ -9,9 +9,9 @@ client_id,client_name,purchase_date,product_id,product_name,quantity_purchased,c
 1012,Legacy Construction Inc.,2023-05-09,CM1005,Plywood,35,Active,15.99,559.65
 1012,Legacy Construction Inc.,2023-11-10,CM1013,PVC Pipe Fittings,45,Active,1.49,67.05
 1012,Legacy Construction Inc.,2023-09-11,CM1023,Paint,50,Active,24.99,1249.50
-1013,Majestic Constructions,2023-14-12,CM1006,Bricks,100,Active,0.75,75.00
-1013,Majestic Constructions,2023-20-01,CM1018,Wood Beams,60,Active,24.99,1499.40
-1013,Majestic Constructions,2023-28-02,CM1025,Caulking,40,Active,7.99,319.60
+1013,Majestic Constructions,2023-10-12,CM1006,Bricks,100,Active,0.75,75.00
+1013,Majestic Constructions,2023-02-01,CM1018,Wood Beams,60,Active,24.99,1499.40
+1013,Majestic Constructions,2023-08-02,CM1025,Caulking,40,Active,7.99,319.60
 1014,Nexus Infrastructure Co.,2023-12-03,CM1008,Mortar Mix,80,Active,8.99,719.20
 1014,Nexus Infrastructure Co.,2023-11-04,CM1014,Electrical Wiring,55,Active,19.99,1099.45
 1014,Nexus Infrastructure Co.,2023-03-05,CM1019,Wood Stain,35,Active,8.99,314.65

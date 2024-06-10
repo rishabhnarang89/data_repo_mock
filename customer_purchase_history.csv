@@ -2,7 +2,7 @@ client_id,client_name,purchase_date,product_id,product_name,quantity_purchased,c
 1011,Keystone Builders Ltd.,2023-02-10,CM1001,Cement,50,Active,9.99,499.50
 1011,Keystone Builders Ltd.,2023-05-03,CM1003,Gravel,30,Active,7.99,239.70
 1011,Keystone Builders Ltd.,2023-12-04,CM1007,Concrete Mix,20,Active,12.99,259.80
-1011,Keystone Builders Ltd.,2023-12-05.,CM1010,Drywall Sheets,40,Active,10.99,439.60
+1011,Keystone Builders Ltd.,2023-12-05,CM1010,Drywall Sheets,40,Active,10.99,439.60
 1011,Keystone Builders Ltd.,2023-12-03,CM1015,Conduits,15,Active,2.99,44.85
 1011,Keystone Builders Ltd.,2023-08-07,CM1020,Vinyl Flooring,25,Active,22.99,574.75
 1012,Legacy Construction Inc.,2023-03-08,CM1002,Sand,60,Active,5.49,329.40

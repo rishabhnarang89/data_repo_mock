@@ -37,7 +37,7 @@ client_id,client_name,purchase_date,product_id,product_name,quantity_purchased,c
 1020,Titan Construction Co.,2023-11-01,CM1047,Circular Saw,35,Active,99.99,3499.65
 1020,Titan Construction Co.,2023-02-02,CM1049,Laser Level,20,Active,59.99,1199.80
 1021,sal Builders Inc.,2023-01-03,CM1024,Paint Brushes,55,Active,4.99,274.45
-1021,sal Builders Inc.,2023-07-04,CM1036,Asphalt,75,Active,49.99,3.749.25
+1021,sal Builders Inc.,2023-07-04,CM1036,Asphalt,75,Active,49.99,3749.25
 1021,sal Builders Inc.,2023-03-05,CM1038,Flashing Tape,60,Active,9.99,599.40
 1022,Vista Construction Group,2023-04-06,CM1016,Roofing Shingles,70,Active,29.99,2099.30
 1022,Vista Construction Group,2023-01-07,CM1029,Fence Panels,80,Active,49.99,3999.20
